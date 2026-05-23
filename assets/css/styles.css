@@ -149,7 +149,7 @@ a:hover {color: lightblue; }
 }
 
 .paper-gallery img {
-	height: 120px;
+	height: 160px;
 	border-radius: 4px;
 	border: 1px solid #4e555f;
 	object-fit: cover;
