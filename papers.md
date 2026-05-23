@@ -6,39 +6,62 @@ permalink: /papers/
 
 # Publications
 
-### LoftUp: Learning a Coordinate-Based Feature Upsampler for Vision Foundation Models
-*Haiwen Huang, Anpei Chen, **Volodymyr Havrylov**, Andreas Geiger, Dan Zhang*
-**ICCV 2025**
+<div class="card">
+  <div class="conf-badge">ICCV 2025</div>
+  <h3>LoftUp: Learning a Coordinate-Based Feature Upsampler</h3>
+  <div class="paper-authors">Haiwen Huang, Anpei Chen, <strong>Volodymyr Havrylov</strong>, Andreas Geiger, Dan Zhang</div>
+  
+  <input type="checkbox" id="abs-1" class="abstract-toggle">
+  <label for="abs-1" class="abstract-label">>> View Abstract</label>
+  <div class="abstract-content">
+    We propose LoftUp, a novel coordinate-based feature upsampling framework for vision foundation models. By leveraging local implicit representations, LoftUp achieves superior upsampling quality while maintaining computational efficiency...
+  </div>
 
-- [Paper Link](#) (Add link when available)
+  <div class="paper-gallery">
+    <img src="/assets/images/placeholder_paper1.png" alt="LoftUp result 1">
+    <img src="/assets/images/placeholder_paper2.png" alt="LoftUp result 2">
+  </div>
+  
+  <div style="margin-top: 10px;">
+    <a href="#" class="mono yellow">[Paper]</a> <a href="#" class="mono yellow">[Project]</a>
+  </div>
+</div>
 
----
+<div class="card">
+  <div class="conf-badge">PREPRINT</div>
+  <h3>Benchmarking Feature Upsampling Methods</h3>
+  <div class="paper-authors"><strong>Volodymyr Havrylov</strong>, Haiwen Huang, Dan Zhang, Andreas Geiger</div>
+  
+  <input type="checkbox" id="abs-2" class="abstract-toggle">
+  <label for="abs-2" class="abstract-label">>> View Abstract</label>
+  <div class="abstract-content">
+    In this work, we present a comprehensive benchmark for various feature upsampling methods in the context of large-scale vision foundation models, utilizing interactive segmentation as a proxy task...
+  </div>
 
-### Benchmarking Feature Upsampling Methods for Vision Foundation Models using Interactive Segmentation
-***Volodymyr Havrylov**, Haiwen Huang, Dan Zhang, Andreas Geiger*
-**Preprint, 2025**
+  <div style="margin-top: 10px;">
+    <a href="#" class="mono yellow">[arXiv]</a>
+  </div>
+</div>
 
-- [Paper Link](#)
-
----
-
-### The effect of protein structure on optical absorption spectra of oxyhemoglobin: the hybrid QM/MM study
-*Tetiana Afanasieva, **Volodymyr Havrylov**, Serhii Mamilov*
-**Journal of Molecular Structure, 2025**
-
-- [Paper Link](#)
-
----
-
-### The effect of protein structure on O2 binding to heme: the hybrid QM/MM study
-***Volodymyr Havrylov**, Tetiana Afanasieva, Serhii Mamilov*
-**Poster presentation at NANO-2021**
-
-- [Poster Link](#)
+<div class="card">
+  <div class="conf-badge">J. MOL. STRUCT</div>
+  <h3>Protein structure effect on optical absorption</h3>
+  <div class="paper-authors">Tetiana Afanasieva, <strong>Volodymyr Havrylov</strong>, Serhii Mamilov</div>
+  
+  <input type="checkbox" id="abs-3" class="abstract-toggle">
+  <label for="abs-3" class="abstract-label">>> View Abstract</label>
+  <div class="abstract-content">
+    Study of protein structure influence on optical absorption spectra of oxyhemoglobin using hybrid QM/MM methodology...
+  </div>
+</div>
 
 ---
 
 # Awards & Honors
 
-- **DAAD Scholarship for Master Studies** (Oct 2022 – Oct 2024)
-  - A prestigious full scholarship granted by the German Academic Exchange Service (DAAD) in recognition of academic excellence and strong research potential.
+<div class="card">
+  <div class="conf-badge">DAAD</div>
+  <h3>DAAD Scholarship for Master Studies</h3>
+  <p class="subtext">2022 – 2024</p>
+  <p>Awarded in recognition of academic excellence and strong research potential.</p>
+</div>

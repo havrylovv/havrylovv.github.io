@@ -6,46 +6,72 @@ permalink: /experience/
 
 # Work Experience
 
-### Bosch Center for Artificial Intelligence
-**Master Thesis Student, Full-time**, Renningen, Germany | *May 2025 – Present*
+<div class="card">
+  <div class="conf-badge">BCAI</div>
+  <h3>Bosch Center for Artificial Intelligence</h3>
+  <p class="subtext">Master Thesis Student | May 2025 – Present</p>
+  <ul>
+    <li>Developing motion prediction and trajectory planning algorithms for autonomous vehicles.</li>
+    <li>Focus on learning rich multi-modal feature representations.</li>
+  </ul>
+</div>
 
-- Developing motion prediction and trajectory planning algorithms for autonomous vehicles.
-- Focus on learning rich multi-modal feature representations.
-- Supervisors: Faris Janjos, Andreas Look, Andreas Geiger.
+<div class="card">
+  <div class="conf-badge">TÜBINGEN</div>
+  <h3>University of Tübingen</h3>
+  <p class="subtext">Teaching Assistant | May 2025 – Present</p>
+  <ul>
+    <li>Assisting in teaching the graduate-level “Computational Photography” course.</li>
+  </ul>
+</div>
 
-### Computer Graphics Group | University of Tübingen
-**Teaching Assistant, Part-time**, Tübingen, Germany | *May 2025 – Present*
+<div class="card">
+  <div class="conf-badge">ZEISS</div>
+  <h3>Carl Zeiss</h3>
+  <p class="subtext">Computer Vision Engineer Intern | Oct 2024 – Apr 2025</p>
+  <ul>
+    <li>Developed real-time multi-view 3D human pose estimation pipeline for perception of medical robotic systems.</li>
+    <li>Integrated the pipeline into a ROS environment and deployed it on an NVIDIA Jetson Orin.</li>
+  </ul>
+</div>
 
-- Assisting in teaching the graduate-level “Computational Photography” course.
+<div class="card">
+  <div class="conf-badge">AVG</div>
+  <h3>Autonomous Vision Group</h3>
+  <p class="subtext">Research Project | Apr 2024 – Apr 2025</p>
+  <ul>
+    <li>Researched and developed novel feature upsampling techniques to enhance the feature quality of vision foundation models.</li>
+  </ul>
+</div>
 
-### Corporate Research | Carl Zeiss
-**Computer Vision Engineer Intern, Full-time**, Oberkochen, Germany | *Oct 2024 – Apr 2025*
+<div class="card">
+  <div class="conf-badge">BCAI</div>
+  <h3>Bosch Center for Artificial Intelligence</h3>
+  <p class="subtext">ML Research Assistant | Aug 2023 – Aug 2024</p>
+  <ul>
+    <li>Conducted an in-depth study of object disappearance in text-to-image generation using Diffusion Models.</li>
+  </ul>
+</div>
 
-- Developed real-time multi-view 3D human pose estimation pipeline for perception of medical robotic systems.
-- Conducted data acquisition and trained keypoint detection models for medical tools.
-- Integrated the pipeline into a ROS environment and deployed it on an NVIDIA Jetson Orin.
-
-### Autonomous Vision Group | University of Tübingen
-**Machine Learning Research Project, Part-time**, Tübingen, Germany | *Apr 2024 – Apr 2025*
-
-- Researched and developed novel feature upsampling techniques to enhance the feature quality of vision foundation models.
-- Co-authored a research paper accepted at ICCV 2025.
-
-### Bosch Center for Artificial Intelligence
-**Machine Learning Research Assistant, Part-time**, Tübingen, Germany | *Aug 2023 – Aug 2024*
-
-- Conducted an in-depth study of object disappearance in text-to-image generation using Diffusion Models.
-- Developed automated image segmentation pipelines for proprietary datasets used in commercial applications.
-
-### Institute of Physics of the National Academy of Sciences of Ukraine
-**Physics Researcher, Part-time**, Kyiv, Ukraine | *July 2021 – June 2022*
-
-- Simulated properties and structure of haemoglobin with the process of oxygen transport.
-- Contributed to a peer-reviewed publication and presented findings at two conferences.
+<div class="card">
+  <div class="conf-badge">NASU</div>
+  <h3>Institute of Physics (NASU)</h3>
+  <p class="subtext">Physics Researcher | July 2021 – June 2022</p>
+  <ul>
+    <li>Simulated properties and structure of haemoglobin with the process of oxygen transport.</li>
+  </ul>
+</div>
 
 ---
 
 # Education
 
-- **MSc in Machine Learning**, University of Tübingen, Germany (*Oct 2022 – present*)
-- **BSc in Applied Physics**, Taras Shevchenko National University of Kyiv, Ukraine (*Sept 2018 – June 2022*)
+<div class="card">
+  <h3>University of Tübingen</h3>
+  <p class="subtext">MSc in Machine Learning | 2022 – present</p>
+</div>
+
+<div class="card">
+  <h3>Taras Shevchenko National University of Kyiv</h3>
+  <p class="subtext">BSc in Applied Physics | 2018 – 2022</p>
+</div>

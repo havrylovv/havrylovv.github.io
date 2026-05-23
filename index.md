@@ -3,38 +3,35 @@ layout: default
 title: Home
 ---
 
-# About Me
+<div class="hacky-greeting">> Hi, I am Volodymyr</div>
 
-Hello! My name is **Volodymyr Havrylov**. I am an ML Engineer specializing in **Computer Vision & Embodied Intelligence**. Currently, I am a Master's student in Machine Learning at the **University of Tübingen**.
+I am an **ML Engineer** specializing in **Computer Vision & Embodied Intelligence**. Currently, I am a Master's student in Machine Learning at the **University of Tübingen**.
 
-I am passionate about developing and deploying intelligent systems, with experience ranging from motion prediction for autonomous vehicles at **Bosch** to real-time 3D human pose estimation at **Carl Zeiss**.
+My work bridges the gap between theoretical research and real-world robotic systems.
 
-### Recent Updates
+### Status
 
-- **May 2025**: Started my Master Thesis at the **Bosch Center for Artificial Intelligence**, focusing on motion prediction and trajectory planning.
-- **May 2025**: Appointed as a Teaching Assistant for the "Computational Photography" course at the University of Tübingen.
-- **2025**: Co-authored "LoftUp: Learning a Coordinate-Based Feature Upsampler for Vision Foundation Models", accepted at **ICCV 2025**.
-- **Oct 2024**: Started a Computer Vision Engineer Internship at **Carl Zeiss**.
-
----
-
-### Work Experience
-
-I have worked at leading research centers and industry leaders in Germany and Ukraine.
-
-- **Master Thesis Student** at **Bosch Center for Artificial Intelligence**
-- **Computer Vision Engineer Intern** at **Carl Zeiss**
-- **Machine Learning Research Project** at **Autonomous Vision Group**
-
-[Read more about my experience &rarr;](/experience/)
+<div class="card">
+  <div class="subtext">Current Activity</div>
+  <ul class="narrow">
+    <li><strong>Bosch BCAI</strong>: Developing motion prediction for autonomous vehicles.</li>
+    <li><strong>Teaching</strong>: TA for "Computational Photography" @ Tübingen.</li>
+    <li><strong>Research</strong>: Feature upsampling for vision foundation models.</li>
+  </ul>
+</div>
 
 ---
 
-### Publications
+### Engineering & Research
 
-My research focuses on feature upsampling for vision foundation models and biophysics simulations.
+<div class="card">
+  <h4>Experience Snippet</h4>
+  <p>From 3D human pose estimation at <strong>Carl Zeiss</strong> to diffusion model research at <strong>Bosch</strong>, I focus on making AI robust and deployable.</p>
+  <a href="/experience/" class="mono yellow">~/view_full_experience/</a>
+</div>
 
-- **LoftUp: Learning a Coordinate-Based Feature Upsampler for Vision Foundation Models** (ICCV 2025)
-- **Benchmarking Feature Upsampling Methods for Vision Foundation Models using Interactive Segmentation** (Preprint 2025)
-
-[View all my papers &rarr;](/papers/)
+<div class="card">
+  <h4>Recent Publications</h4>
+  <p>Co-authored <strong>LoftUp</strong> (ICCV 2025), a novel coordinate-based feature upsampler for vision foundation models.</p>
+  <a href="/papers/" class="mono yellow">~/view_all_publications/</a>
+</div>
