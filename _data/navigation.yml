@@ -1,6 +1,6 @@
 - name: Home
   link: /
-- name: Papers
-  link: /papers/
 - name: Experience
   link: /experience/
+- name: Publications
+  link: /papers/
