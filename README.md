@@ -8,5 +8,4 @@ Personal website for Volodymyr Havrylov.
 - `experience.md`: Detailed work experience list.
 
 ## Style
-Inspired by [rusty-electron.github.io](https://github.com/rusty-electron/rusty-electron.github.io).
-Content inspired by [shub-kris.github.io](https://github.com/shub-kris/shub-kris.github.io).
+Inspired by [rusty-electron.github.io](https://github.com/rusty-electron/rusty-electron.github.io) and [shub-kris.github.io](https://github.com/shub-kris/shub-kris.github.io).

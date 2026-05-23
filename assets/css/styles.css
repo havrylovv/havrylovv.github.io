@@ -62,7 +62,7 @@ a:hover {color: lightblue; }
 
 /* Larger Profile Image */
 .profile-img-large {
-	width: 250px;
+	width: 300px;
 	border-radius: 12px;
 	border: 2px solid #393e46;
 	transition: transform 0.3s ease;
@@ -99,6 +99,7 @@ a:hover {color: lightblue; }
 }
 
 .conf-badge {
+	display: inline-block;
 	background-color: #f2a365;
 	color: #222831;
 	padding: 2px 8px;
@@ -107,7 +108,8 @@ a:hover {color: lightblue; }
 	font-family: 'Roboto Mono';
 	font-size: 0.8rem;
 	margin-right: 10px;
-	flex-shrink: 0;
+	margin-bottom: 5px;
+	vertical-align: middle;
 }
 
 /* Toggle / Abstract */
