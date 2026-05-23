@@ -418,7 +418,7 @@ pre.highlight {
     margin-top: 5%;
 }
 
-img:not(.profile-img-large) {
+img {
     cursor: zoom-in;
 }
 .chessboard {

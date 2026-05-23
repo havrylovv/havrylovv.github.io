@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     // Handle image clicks
-    document.querySelectorAll('img:not(.profile-img-large)').forEach(img => {
+    document.querySelectorAll('img').forEach(img => {
         img.addEventListener('click', () => {
             modal.style.display = 'block';
             modalImg.src = img.src;
