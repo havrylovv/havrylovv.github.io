@@ -18,28 +18,31 @@ permalink: /papers/
   </div>
 
   <div class="paper-gallery">
-    <img src="/assets/images/placeholder_paper1.png" alt="LoftUp result 1">
-    <img src="/assets/images/placeholder_paper2.png" alt="LoftUp result 2">
+    <img src="assets/images/loftup_siglip2-horsejump.gif" alt="LoftUp jumping horse example" style="height: 160px;">
   </div>
   
   <div style="margin-top: 10px;">
-    <a href="https://arxiv.org/abs/2504.14032" class="mono yellow" target="_blank" rel="noopener noreferrer">[arXiv]</a> <a href="https://andrehuang.github.io/loftup-site/" class="mono yellow" target="_blank" rel="noopener noreferrer">[Project]</a>
+    <a href="https://arxiv.org/abs/2504.14032" class="mono yellow" target="_blank" rel="noopener noreferrer">[arXiv]</a> <a href="https://andrehuang.github.io/loftup-site/" class="mono yellow" target="_blank" rel="noopener noreferrer">[Project]</a> <a href="https://github.com/andrehuang/loftup" class="mono yellow" target="_blank" rel="noopener noreferrer">[Code]</a>
   </div>
 </div>
 
 <div class="card">
-  <div class="conf-badge">PREPRINT</div>
-  <h3>Benchmarking Feature Upsampling Methods</h3>
+  <div class="conf-badge"> [ILR+G Workshop](https://iccv.thecvf.com/virtual/2025/workshop/2744) @ ICCV 2025 [Oral]</div>
+  <h3>Benchmarking Feature Upsampling Methods for Vision Foundation Models using Interactive Segmentation</h3>
   <div class="paper-authors"><strong class="author-self">Volodymyr Havrylov</strong>, Haiwen Huang, Dan Zhang, Andreas Geiger</div>
   
   <input type="checkbox" id="abs-2" class="abstract-toggle">
   <label for="abs-2" class="abstract-label">>> View Abstract</label>
   <div class="abstract-content">
-    In this work, we present a comprehensive benchmark for various feature upsampling methods in the context of large-scale vision foundation models, utilizing interactive segmentation as a proxy task...
+  Vision Foundation Models (VFMs) are large-scale, pre-trained models that serve as general-purpose backbones for various computer vision tasks. As VFMs' popularity grows, there is an increasing interest in understanding their effectiveness for dense prediction tasks. However, VFMs typically produce low-resolution features, limiting their direct applicability in this context. One way to tackle this limitation is by employing a task-agnostic feature upsampling module that refines VFM features resolution. To assess the effectiveness of this approach, we investigate Interactive Segmentation (IS) as a novel benchmark for evaluating feature upsampling methods on VFMs. Due to its inherent multimodal input, consisting of an image and a set of user-defined clicks, as well as its dense mask output, IS creates a challenging environment that demands comprehensive visual scene understanding. Our benchmarking experiments show that selecting appropriate upsampling strategies significantly improves VFM features quality.
+  </div>
+
+  <div class="paper-gallery">
+    <img src="assets/images/iSegProbe_teaser.jpg" alt="iSegProbe: feature upsampling bachmark for interactive segmentation " style="height: 160px;">
   </div>
 
   <div style="margin-top: 10px;">
-    <a href="#" class="mono yellow" target="_blank" rel="noopener noreferrer">[arXiv]</a>
+    <a href="https://arxiv.org/abs/2505.02075v1" class="mono yellow" target="_blank" rel="noopener noreferrer">[arXiv]</a> <a href="https://github.com/havrylovv/iSegProbe" class="mono yellow" target="_blank" rel="noopener noreferrer">[Code]</a>
   </div>
 </div>
 
