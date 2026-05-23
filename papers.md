@@ -27,7 +27,7 @@ permalink: /papers/
 </div>
 
 <div class="card">
-  <div class="conf-badge"> [ILR+G Workshop](https://iccv.thecvf.com/virtual/2025/workshop/2744) @ ICCV 2025 [Oral]</div>
+  <div class="conf-badge"> ILR+G Workshop @ ICCV 2025 [Oral]</div>
   <h3>Benchmarking Feature Upsampling Methods for Vision Foundation Models using Interactive Segmentation</h3>
   <div class="paper-authors"><strong class="author-self">Volodymyr Havrylov</strong>, Haiwen Huang, Dan Zhang, Andreas Geiger</div>
   

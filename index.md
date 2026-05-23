@@ -26,13 +26,13 @@ Currently, I work as CV Engineer @ [DeepScenario](https://www.deepscenario.com/)
 ### Engineering & Research
 
 <div class="card">
-  <h3>Experience Snippet</h4>
+  <h3>Experience Snippet</h3>
   <p>From 3D human pose estimation at <strong>Carl Zeiss</strong> to diffusion model research at <strong>Bosch</strong>, I focus on making AI robust and deployable.</p>
   <a href="/experience/" class="mono yellow">~/view_full_experience/</a>
 </div>
 
 <div class="card">
-  <h3>Recent Publications</h4>
+  <h3>Recent Publications</h3>
   <p>Co-authored <strong>LoftUp</strong> (ICCV 2025), a novel coordinate-based feature upsampler for vision foundation models.</p>
   <a href="/papers/" class="mono yellow">~/view_all_publications/</a>
 </div>
