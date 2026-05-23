@@ -24,7 +24,7 @@ permalink: /papers/
   </div>
   
   <div style="margin-top: 10px;">
-    <a href="https://andrehuang.github.io/loftup-site/" class="mono yellow" target="_blank" rel="noopener noreferrer">[Project]</a>  <a href="https://Paper.org/abs/2504.14032" class="mono yellow" target="_blank" rel="noopener noreferrer">[Paper]</a><a href="https://github.com/andrehuang/loftup" class="mono yellow" target="_blank" rel="noopener noreferrer">[Code]</a>
+    <a href="https://andrehuang.github.io/loftup-site/" class="mono yellow" target="_blank" rel="noopener noreferrer">[Project]</a>  <a href="https://arxiv.org/abs/2504.14032" class="mono yellow" target="_blank" rel="noopener noreferrer">[Paper]</a><a href="https://github.com/andrehuang/loftup" class="mono yellow" target="_blank" rel="noopener noreferrer">[Code]</a>
   </div>
 </div>
 
