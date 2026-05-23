@@ -7,7 +7,7 @@ title: Home
 
 I am an **ML Engineer / Researcher** in **Computer Vision & Embodied Intelligence** coming from physics background. I am passionate about letting machines percieve, plan and act in our complex 3D world. 
 
-Currently, I work as CV Engineer @ [DeepScenario](https://www.deepscenario.com/).  I hold a Master's degree in Machine Learning from **[University of Tübingen](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/studium/studierende/lehre-studienorganisation/studiengaenge/machine-learning/)** and Bachelor's degree in Applied Physics from **KNU, Ukraine**. 
+Currently, I work as CV Engineer @ [DeepScenario](https://www.deepscenario.com/){:target="_blank"}.  I hold a Master's degree in Machine Learning from **[University of Tübingen](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/studium/studierende/lehre-studienorganisation/studiengaenge/machine-learning/){:target="_blank"}** and Bachelor's degree in Applied Physics from **[KNU, Ukraine](https://knu.ua/en/){:target="_blank"}**. 
 
 
 ### Status

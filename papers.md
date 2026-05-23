@@ -23,7 +23,7 @@ permalink: /papers/
   </div>
   
   <div style="margin-top: 10px;">
-    <a href="https://arxiv.org/abs/2504.14032" class="mono yellow">[arXiv]</a> <a href="https://andrehuang.github.io/loftup-site/" class="mono yellow">[Project]</a>
+    <a href="https://arxiv.org/abs/2504.14032" class="mono yellow" target="_blank" rel="noopener noreferrer">[arXiv]</a> <a href="https://andrehuang.github.io/loftup-site/" class="mono yellow" target="_blank" rel="noopener noreferrer">[Project]</a>
   </div>
 </div>
 
@@ -39,7 +39,7 @@ permalink: /papers/
   </div>
 
   <div style="margin-top: 10px;">
-    <a href="#" class="mono yellow">[arXiv]</a>
+    <a href="#" class="mono yellow" target="_blank" rel="noopener noreferrer">[arXiv]</a>
   </div>
 </div>
 
