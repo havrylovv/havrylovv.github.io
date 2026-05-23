@@ -38,7 +38,7 @@ permalink: /papers/
   </div>
 
   <div class="paper-gallery">
-    <img src="/assets/images/iSegProbe_teaser.jpg" alt="iSegProbe: feature upsampling bachmark for interactive segmentation " style="height: 160px;">
+    <img src="/assets/images/iSegProbe_teaser.jpg" alt="iSegProbe: feature upsampling bachmark for interactive segmentation " style="height: 200px;">
   </div>
 
   <div style="margin-top: 10px;">
