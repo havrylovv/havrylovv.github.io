@@ -396,7 +396,31 @@ pre.highlight {
 	margin: 12px 0;
 }
 
-/* csss for the chessboardjs board */
+/* Modal for image zoom */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.8);
+    cursor: zoom-out;
+}
+
+.modal-content {
+    margin: auto;
+    display: block;
+    max-width: 90%;
+    max-height: 90%;
+    margin-top: 5%;
+}
+
+img:not(.profile-img-large) {
+    cursor: zoom-in;
+}
 .chessboard {
 	margin: 0.5rem auto;
 	width: 400px;
@@ -407,10 +431,11 @@ pre.highlight {
 	margin: 1.2rem 0;
 }
 
-.caption {
+.profile-caption {
 	text-align: center;
-	font-style: italic;
-	font-size: .8rem;
+	font-size: 0.9rem;
+	color: rgb(184, 184, 184);
+	margin-top: 5px;
 }
 
 /* for small screens*/
