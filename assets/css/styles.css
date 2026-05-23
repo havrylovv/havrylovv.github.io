@@ -62,7 +62,7 @@ a:hover {color: lightblue; }
 
 /* Larger Profile Image */
 .profile-img-large {
-	width: 300px;
+	width: 350px;
 	border-radius: 12px;
 	border: 2px solid #393e46;
 	transition: transform 0.3s ease;
@@ -83,8 +83,13 @@ a:hover {color: lightblue; }
 }
 
 .card h3 {
-    margin-top: 0px;
-    margin-bottom: 0.5rem;
+    margin-top: 0px !important;
+    margin-bottom: 0.5rem !important;
+}
+
+.card .badge-row {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
 }
 
 .card:hover {
