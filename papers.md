@@ -7,7 +7,10 @@ permalink: /papers/
 # Publications
 
 <div class="card">
-  <h3><span class="conf-badge">ICCV 2025 [Oral]</span>LoftUp: Learning a Coordinate-Based Feature Upsampler for Vision Foundation Models</h3>
+  <div style="display: flex; margin-bottom: 5px;">
+    <div class="conf-badge">ICCV 2025 [Oral]</div>
+  </div>
+  <h3>LoftUp: Learning a Coordinate-Based Feature Upsampler for Vision Foundation Models</h3>
   <div class="paper-authors">Haiwen Huang, Anpei Chen, <strong class="author-self">Volodymyr Havrylov</strong>, Andreas Geiger, Dan Zhang</div>
   
   <input type="checkbox" id="abs-1" class="abstract-toggle">
@@ -26,7 +29,10 @@ permalink: /papers/
 </div>
 
 <div class="card">
-  <h3><span class="conf-badge">ILR+G Workshop @ ICCV 2025 [Oral]</span>Benchmarking Feature Upsampling Methods for Vision Foundation Models using Interactive Segmentation</h3>
+  <div style="display: flex; margin-bottom: 5px;">
+    <div class="conf-badge">ILR+G Workshop @ ICCV 2025 [Oral]</div>
+  </div>
+  <h3>Benchmarking Feature Upsampling Methods for Vision Foundation Models using Interactive Segmentation</h3>
   <div class="paper-authors"><strong class="author-self">Volodymyr Havrylov</strong>, Haiwen Huang, Dan Zhang, Andreas Geiger</div>
   
   <input type="checkbox" id="abs-2" class="abstract-toggle">
@@ -45,7 +51,10 @@ permalink: /papers/
 </div>
 
 <div class="card">
-  <h3><span class="conf-badge">Journal of Molecular Structure 2025</span>The effect of protein structure on optical absorption spectra of oxyhemoglobin: the hybrid QM/MM study</h3>
+  <div style="display: flex; margin-bottom: 5px;">
+    <div class="conf-badge">Journal of Molecular Structure 2025</div>
+  </div>
+  <h3>The effect of protein structure on optical absorption spectra of oxyhemoglobin: the hybrid QM/MM study</h3>
   <div class="paper-authors">Tetiana Afanasieva, <strong class="author-self">Volodymyr Havrylov</strong>, Serhii Mamilov</div>
   
   <input type="checkbox" id="abs-3" class="abstract-toggle">

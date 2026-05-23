@@ -99,7 +99,7 @@ a:hover {color: lightblue; }
 }
 
 .conf-badge {
-	display: inline-block;
+	display: block;
 	background-color: #f2a365;
 	color: #222831;
 	padding: 2px 8px;
@@ -107,9 +107,7 @@ a:hover {color: lightblue; }
 	font-weight: 800;
 	font-family: 'Roboto Mono';
 	font-size: 0.8rem;
-	margin-right: 10px;
-	margin-bottom: 5px;
-	vertical-align: middle;
+	margin-left: auto;
 }
 
 /* Toggle / Abstract */
