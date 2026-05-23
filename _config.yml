@@ -9,9 +9,10 @@ github_username:  havrylovv
 
 timezone: UTC
 markdown: kramdown
-theme: minima # actually we use custom layouts
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 kramdown:
   input: GFM
