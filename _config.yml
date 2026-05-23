@@ -1,0 +1,18 @@
+title: Havrylovv's Webpage
+email: volodymyr.havrylov@example.com
+description: >-
+  Website containing updates from my life, research papers, and work experience.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://havrylovv.github.io" # the base hostname & protocol for your site
+twitter_username: havrylovv
+github_username:  havrylovv
+
+timezone: UTC
+markdown: kramdown
+theme: minima # actually we use custom layouts
+plugins:
+  - jekyll-feed
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
