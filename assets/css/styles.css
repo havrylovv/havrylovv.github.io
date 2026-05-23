@@ -93,6 +93,11 @@ a:hover {color: lightblue; }
 	margin-bottom: 0.5rem;
 }
 
+.author-self {
+	color: #f2a365;
+	text-decoration: underline;
+}
+
 .conf-badge {
 	float: right;
 	background-color: #f2a365;

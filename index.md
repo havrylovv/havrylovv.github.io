@@ -5,7 +5,9 @@ title: Home
 
 <div class="hacky-greeting">> Hi, I am Volodymyr</div>
 
-I am an **ML Engineer / Researcher** specializing in **Computer Vision & Embodied Intelligence**. Currently, I work as CV Engineer @ [DeepScenario](https://www.deepscenario.com/).  I hold a Master's degree in Machine Learning from **[University of Tübingen](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/studium/studierende/lehre-studienorganisation/studiengaenge/machine-learning/)** and Bachelor's degree in Applied Physics from **KNU, Ukraine**. 
+I am an **ML Engineer / Researcher** in **Computer Vision & Embodied Intelligence** coming from physics background. I am passionate about letting machines percieve, plan and act in our complex 3D world. 
+
+Currently, I work as CV Engineer @ [DeepScenario](https://www.deepscenario.com/).  I hold a Master's degree in Machine Learning from **[University of Tübingen](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/studium/studierende/lehre-studienorganisation/studiengaenge/machine-learning/)** and Bachelor's degree in Applied Physics from **KNU, Ukraine**. 
 
 
 ### Status
