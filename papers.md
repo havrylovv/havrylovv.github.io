@@ -42,7 +42,7 @@ permalink: /papers/
   </div>
 
   <div style="margin-top: 10px;">
-    <a href="https://Paper.org/abs/2505.02075v1" class="mono yellow" target="_blank" rel="noopener noreferrer">[Paper]</a> <a href="https://github.com/havrylovv/iSegProbe" class="mono yellow" target="_blank" rel="noopener noreferrer">[Code]</a>
+    <a href="https://arxiv.org/html/2505.02075v1" class="mono yellow" target="_blank" rel="noopener noreferrer">[Paper]</a> <a href="https://github.com/havrylovv/iSegProbe" class="mono yellow" target="_blank" rel="noopener noreferrer">[Code]</a>
   </div>
 </div>
 
@@ -61,7 +61,7 @@ permalink: /papers/
   </div>
 
   <div class="paper-gallery">
-    <img src="/assets/images/qmmm_teaser.jpg" alt="QM/MM Protein Study" style="height: 160px;">
+    <img src="/assets/images/qmmm_hemoglobin_teaser.png" alt="QM/MM Protein Study" style="height: 220px;">
   </div>
 
   <div style="margin-top: 10px;">
