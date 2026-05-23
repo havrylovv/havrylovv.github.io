@@ -76,10 +76,15 @@ a:hover {color: lightblue; }
 .card {
 	background-color: #393e46;
 	border-radius: 8px;
-	padding: 1.5rem;
+	padding: 1rem;
 	margin-bottom: 2rem;
 	border: 1px solid #4e555f;
 	box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.card h3 {
+    margin-top: 5px;
+    margin-bottom: 0.5rem;
 }
 
 .card:hover {
