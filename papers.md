@@ -81,7 +81,9 @@ permalink: /papers/
 # Awards & Honors
 
 <div class="card">
-  <div class="conf-badge">DAAD</div>
+  <div style="display: flex; justify-content: flex-end; margin-bottom: 0px;">
+    <div class="conf-badge">DAAD</div>
+  </div>
   <h3>DAAD Scholarship for Master Studies</h3>
   <p class="subtext">2022 – 2024</p>
   <p>Awarded in recognition of academic excellence and strong research potential.</p>
