@@ -57,7 +57,7 @@ permalink: /experience/
   <h3>Institute of Physics of the National Academy of Sciences of Ukraine</h3>
   <p class="subtext">Physics Researcher | Kyiv, Ukraine | July 2021 – June 2022</p>
   <ul>
-    <li>Simulated properties and structure of haemoglobin with the process of oxygen transport.<li>
+    <li>Simulated properties and structure of haemoglobin with the process of oxygen transport.</li>
     <li>Contributed to a peer-reviewed publication and presented findings at two conferences.</li>
   </ul>
 </div>
