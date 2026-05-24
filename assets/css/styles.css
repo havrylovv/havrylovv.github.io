@@ -76,20 +76,29 @@ a:hover {color: lightblue; }
 .card {
 	background-color: #393e46;
 	border-radius: 8px;
-	padding: 1rem;
-	margin-bottom: 2rem;
+	padding: 0.8rem;
+	margin-bottom: 1.5rem;
 	border: 1px solid #4e555f;
 	box-shadow: 0 4px 6px rgba(0,0,0,0.1);
 }
 
 .card h3 {
     margin-top: 0px !important;
-    margin-bottom: 0.5rem !important;
+    margin-bottom: 0.2rem !important;
 }
 
 .card .badge-row {
     margin-top: 0px !important;
-    margin-bottom: 0px !important;
+    margin-bottom: 0.2rem !important;
+}
+
+.card p {
+    margin: 0.5rem 0 !important;
+    font-size: 16px;
+}
+
+.card strong {
+    font-weight: bold !important;
 }
 
 .card:hover {
