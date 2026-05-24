@@ -7,7 +7,7 @@ permalink: /papers/
 # Publications
 
 <div class="card">
-  <div class="badge-row" style="display: flex; justify-content: flex-end;">
+  <div class="badge-row" style="display: flex; justify-content: flex-start;">
     <div class="conf-badge">ICCV 2025 [Oral]</div>
   </div>
   <h3>LoftUp: Learning a Coordinate-Based Feature Upsampler for Vision Foundation Models</h3>
@@ -29,7 +29,7 @@ permalink: /papers/
 </div>
 
 <div class="card">
-  <div class="badge-row" style="display: flex; justify-content: flex-end;">
+  <div class="badge-row" style="display: flex; justify-content: flex-start;">
     <div class="conf-badge">ILR+G Workshop @ ICCV 2025 [Oral]</div>
   </div>
   <h3>Benchmarking Feature Upsampling Methods for Vision Foundation Models using Interactive Segmentation</h3>
@@ -51,7 +51,7 @@ permalink: /papers/
 </div>
 
 <div class="card">
-  <div class="badge-row" style="display: flex; justify-content: flex-end;">
+  <div class="badge-row" style="display: flex; justify-content: flex-start;">
     <div class="conf-badge">Journal of Molecular Structure 2025</div>
   </div>
   <h3>The effect of protein structure on optical absorption spectra of oxyhemoglobin: the hybrid QM/MM study</h3>
@@ -73,18 +73,5 @@ permalink: /papers/
   <div style="margin-top: 10px;">
     <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022286025016205" class="mono yellow" target="_blank" rel="noopener noreferrer">[Paper]</a> 
   </div>
-
 </div>
-
----
-
-# Awards & Honors
-
-<div class="card">
-  <div class="badge-row" style="display: flex; justify-content: flex-end;">
-    <div class="conf-badge">DAAD</div>
-  </div>
-  <h3>DAAD Scholarship for Master Studies</h3>
-  <p class="subtext">2022 – 2024</p>
-  <p>Awarded in recognition of academic excellence and strong research potential.</p>
-</div>
+--- End of content ---
