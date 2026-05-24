@@ -54,11 +54,11 @@ permalink: /experience/
 </div>
 
 <div class="card">
-  <div class="conf-badge">NASU</div>
-  <h3>Institute of Physics (NASU)</h3>
-  <p class="subtext">Physics Researcher | July 2021 – June 2022</p>
+  <h3>Institute of Physics of the National Academy of Sciences of Ukraine</h3>
+  <p class="subtext">Physics Researcher | Kyiv, Ukraine | July 2021 – June 2022</p>
   <ul>
-    <li>Simulated properties and structure of haemoglobin with the process of oxygen transport.</li>
+    <li>Simulated properties and structure of haemoglobin with the process of oxygen transport.<li>
+    <li>Contributed to a peer-reviewed publication and presented findings at two conferences.</li>
   </ul>
 </div>
 
@@ -68,7 +68,7 @@ permalink: /experience/
 
 <div class="card">
   <h3>University of Tübingen</h3>
-  <p class="subtext">MSc in Machine Learning | Tübingen, Germany| 2022 – present</p>
+  <p class="subtext">MSc in Machine Learning | Tübingen, Germany | 2022 – present</p>
   <ul>
     <li><strong>GPA</strong>: 1.4 (1.0 - max)</li>
   </ul>
