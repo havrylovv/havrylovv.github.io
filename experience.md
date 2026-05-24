@@ -68,10 +68,17 @@ permalink: /experience/
 
 <div class="card">
   <h3>University of Tübingen</h3>
-  <p class="subtext">MSc in Machine Learning | 2022 – present</p>
+  <p class="subtext">MSc in Machine Learning | Tübingen, Germany| 2022 – present</p>
+  <ul>
+    <li>**GPA**: 1.4 (1.0 - max)</li>
+  </ul>
 </div>
 
 <div class="card">
   <h3>Taras Shevchenko National University of Kyiv</h3>
-  <p class="subtext">BSc in Applied Physics | 2018 – 2022</p>
+  <p class="subtext">BSc in Applied Physics | Kyiv, Ukraine | 2018 – 2022</p>
+  <ul>
+    <li>Focus on electronics and information technology in medicine.</li>
+    <li>**GPA**: 96.9/100, Diploma with Honours.</li>
+  </ul>
 </div>

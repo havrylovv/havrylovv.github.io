@@ -72,6 +72,11 @@ a:hover {color: lightblue; }
 	transform: scale(1.02);
 }
 
+strong, b {
+    font-weight: bold !important;
+    color: #ececec !important; /* Ensuring contrast against the background */
+}
+
 /* Distinct Rectangles (Cards) */
 .card {
 	background-color: #393e46;
