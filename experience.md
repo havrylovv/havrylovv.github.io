@@ -70,7 +70,7 @@ permalink: /experience/
   <h3>University of Tübingen</h3>
   <p class="subtext">MSc in Machine Learning | Tübingen, Germany| 2022 – present</p>
   <ul>
-    <li>**GPA**: 1.4 (1.0 - max)</li>
+    <li><strong>GPA</strong>: 1.4 (1.0 - max)</li>
   </ul>
 </div>
 
@@ -79,6 +79,6 @@ permalink: /experience/
   <p class="subtext">BSc in Applied Physics | Kyiv, Ukraine | 2018 – 2022</p>
   <ul>
     <li>Focus on electronics and information technology in medicine.</li>
-    <li>**GPA**: 96.9/100, Diploma with Honours.</li>
+    <li><strong>GPA</strong>: 96.9/100, Diploma with Honours.</li>
   </ul>
 </div>

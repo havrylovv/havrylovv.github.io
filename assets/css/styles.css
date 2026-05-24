@@ -249,7 +249,7 @@ p{
 .subtext{
 	text-transform: uppercase;
 	font-weight: 800;
-	font-size: 12px;
+	font-size: 12px !important;
 	letter-spacing: .8px;
 	color: #aaa;
 	margin-bottom: 2rem;
