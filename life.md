@@ -4,9 +4,7 @@ title: Life
 permalink: /life/
 ---
 
-# Life
-
-## Awards & Honors
+# Awards & Honors
 
 <div class="card">
   <div class="badge-row" style="display: flex; justify-content: flex-start;">
@@ -17,6 +15,6 @@ permalink: /life/
   <p>Awarded in recognition of academic excellence and strong research potential.</p>
 </div>
 
-## Hobbies
+# Hobbies
 
 I enjoy running, even on rainy days!

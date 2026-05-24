@@ -73,5 +73,5 @@ permalink: /papers/
   <div style="margin-top: 10px;">
     <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022286025016205" class="mono yellow" target="_blank" rel="noopener noreferrer">[Paper]</a> 
   </div>
-</div>
---- End of content ---
+
+  </div>
