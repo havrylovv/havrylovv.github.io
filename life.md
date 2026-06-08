@@ -4,14 +4,6 @@ title: Life
 permalink: /life/
 ---
 
-# Awards & Honors
-
-<div class="card">
-  <h3>DAAD Scholarship for Master Studies</h3>
-  <p class="subtext">2022 – 2024</p>
-  <p>Prestigious scholarship awarded to outstanding graduates in recognition of their academic excellence and strong research potential.</p>
-</div>
-
 # Hobbies
 
 When I’m not digging through code, you can usually find me:

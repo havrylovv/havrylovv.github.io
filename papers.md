@@ -73,5 +73,22 @@ permalink: /papers/
   <div style="margin-top: 10px;">
     <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022286025016205" class="mono yellow" target="_blank" rel="noopener noreferrer">[Paper]</a> 
   </div>
+</div>
 
+<div class="card">
+  <div class="badge-row" style="display: flex; justify-content: flex-start;">
+    <div class="conf-badge">NANO-2021</div>
   </div>
+  <h3>The effect of protein structure on O2 binding to heme: the hybrid QM/MM study</h3>
+  <div class="paper-authors"><strong class="author-self">Volodymyr Havrylov</strong>, Tetiana Afanasieva, Serhii Mamilov</div>
+  
+  <input type="checkbox" id="abs-4" class="abstract-toggle">
+  <label for="abs-4" class="abstract-label">>> View Abstract</label>
+  <div class="abstract-content">
+  Poster presentation at NANO-2021. This research investigates the effect of protein structure on oxygen binding to heme using hybrid QM/MM simulations.
+  </div>
+
+  <div style="margin-top: 10px;">
+    <a href="https://drive.google.com/file/d/17qmxLOLhR_AeueD5-PTAiCdM-PQBzx1c/view" class="mono yellow" target="_blank" rel="noopener noreferrer">[Poster]</a> 
+  </div>
+</div>
