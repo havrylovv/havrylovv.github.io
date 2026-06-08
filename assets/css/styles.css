@@ -28,6 +28,16 @@ a {color: #f2a365; }
 .noline { text-decoration: none;}
 .line { text-decoration: underline; }
 
+.subtle-link {
+    color: inherit !important;
+    text-decoration: none;
+}
+
+.subtle-link:hover {
+    color: #f2a365 !important;
+    text-decoration: underline;
+}
+
 .yellow {color: #f2a365; }
 
 a:hover {color: lightblue; }
@@ -248,11 +258,16 @@ p{
 
 .subtext{
 	text-transform: uppercase;
-	font-weight: 800;
+	font-weight: 500;
 	font-size: 12px !important;
 	letter-spacing: .8px;
-	color: #aaa;
+	color: #888;
 	margin-bottom: 2rem;
+}
+
+.subtext .pos {
+    color: #ececec;
+    font-weight: 800;
 }
 
 .kinda-red{

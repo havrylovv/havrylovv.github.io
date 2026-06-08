@@ -7,8 +7,8 @@ permalink: /experience/
 # Work Experience
 
 <div class="card">
-  <h3>DeepScenario</h3>
-  <p class="subtext">Computer Vision Engineer | Nov 2025 – Present</p>
+  <h3><a href="https://www.deepscenario.com/" class="subtle-link" target="_blank">DeepScenario</a></h3>
+  <p class="subtext"><span class="pos">Computer Vision Engineer</span> | Full-time | Stuttgart, Germany | Nov 2025 – Present</p>
   <ul>
     <li>Develop production-ready ML pipeline (perception, tracking) and maintain core codebase reliability.</li>
     <li>Drive full-cycle camera-LiDAR calibration, physical data collection, and post-processing.</li>
@@ -16,8 +16,8 @@ permalink: /experience/
 </div>
 
 <div class="card">
-  <h3>Bosch Center for Artificial Intelligence</h3>
-  <p class="subtext">Master Thesis Student | May 2025 – Nov 2025</p>
+  <h3><a href="https://www.bosch.com/research/bcai/" class="subtle-link" target="_blank">Bosch Center for Artificial Intelligence</a></h3>
+  <p class="subtext"><span class="pos">Master Thesis Student</span> | Full-time | Renningen, Germany | May 2025 – Nov 2025</p>
   <ul>
     <li>Developed motion prediction and trajectory planning algorithms for autonomous vehicles, with a focus on learning rich multi-modal feature representations.</li>
     <li>Supervisors: <a href="https://scholar.google.com/citations?user=0HQRPAIAAAAJ&hl=en">Faris Janjos</a>, <a href="https://scholar.google.com/citations?hl=de&user=3A6LKtAAAAAJ&view_op=list_works">Andreas Look</a>, <a href="https://www.cvlibs.net/">Andreas Geiger</a>.</li>
@@ -26,16 +26,16 @@ permalink: /experience/
 </div>
 
 <div class="card">
-  <h3>University of Tübingen</h3>
-  <p class="subtext">Teaching Assistant | May 2025 – Present</p>
+  <h3><a href="https://graphics.cs.uni-tuebingen.de/" class="subtle-link" target="_blank">Computer Graphics Group | University of Tübingen</a></h3>
+  <p class="subtext"><span class="pos">Teaching Assistant</span> | Part-time | Tübingen, Germany | May 2025 – Present</p>
   <ul>
     <li>Assisting in teaching the graduate-level “Computational Photography” course.</li>
   </ul>
 </div>
 
 <div class="card">
-  <h3>Carl Zeiss</h3>
-  <p class="subtext">Computer Vision Engineer Intern | Oct 2024 – Apr 2025</p>
+  <h3><a href="https://www.zeiss.com/corporate/en/about-zeiss/future/innovation/research-and-technology.html" class="subtle-link" target="_blank">Corporate Research | Carl Zeiss</a></h3>
+  <p class="subtext"><span class="pos">Computer Vision Engineer Intern</span> | Full-time | Oberkochen, Germany | Oct 2024 – Apr 2025</p>
   <ul>
     <li>Developed real-time multi-view 3D human pose estimation pipeline for perception of medical robotic systems.</li>
     <li>Conducted data acquisition and trained keypoint detection models for medical tools.</li>
@@ -44,18 +44,18 @@ permalink: /experience/
 </div>
 
 <div class="card">
-  <h3>Autonomous Vision Group</h3>
-  <p class="subtext">Research Project | Apr 2024 – Apr 2025</p>
+  <h3><a href="https://www.cvlibs.net/" class="subtle-link" target="_blank">Autonomous Vision Group | University of Tübingen</a></h3>
+  <p class="subtext"><span class="pos">Machine Learning Research Project</span> | Part-time | Tübingen, Germany | Apr 2024 – Apr 2025</p>
   <ul>
     <li>Researched and developed novel feature upsampling techniques to enhance the feature quality of vision foundation models.</li>
-    <li>Co-authored the <strong>LoftUp</strong> paper, accepted as an <strong>Oral</strong> at <strong>ICCV 2025</strong>.</li>
-    <li>First-authored a benchmarking study on feature upsampling, also accepted as an <strong>Oral</strong> at the <strong>ICCV 2025 Workshop</strong>.</li>
+    <li>Co-authored the <strong><a href="https://arxiv.org/abs/2504.14032">LoftUp</a></strong> paper, accepted as an <strong>Oral</strong> at <strong>ICCV 2025</strong>.</li>
+    <li>First-authored a <strong><a href="https://arxiv.org/abs/2505.02075">benchmarking study</a></strong> on feature upsampling, also accepted as an <strong>Oral</strong> at the <strong>ICCV 2025 Workshop</strong>.</li>
   </ul>
 </div>
 
 <div class="card">
-  <h3>Bosch Center for Artificial Intelligence</h3>
-  <p class="subtext">ML Research Assistant | Aug 2023 – Aug 2024</p>
+  <h3><a href="https://www.bosch.com/research/bcai/" class="subtle-link" target="_blank">Bosch Center for Artificial Intelligence</a></h3>
+  <p class="subtext"><span class="pos">Machine Learning Research Assistant</span> | Part-time | Tübingen, Germany | Aug 2023 – Aug 2024</p>
   <ul>
     <li>Conducted an in-depth study of object disappearance in text-to-image generation using Diffusion Models.</li>
     <li>Developed automated image segmentation pipelines for proprietary datasets used in commercial applications.</li>
@@ -63,8 +63,8 @@ permalink: /experience/
 </div>
 
 <div class="card">
-  <h3>Institute of Physics of the National Academy of Sciences of Ukraine</h3>
-  <p class="subtext">Physics Researcher | Kyiv, Ukraine | July 2021 – June 2022</p>
+  <h3><a href="http://www.iop.kiev.ua/en/" class="subtle-link" target="_blank">Institute of Physics of the National Academy of Sciences of Ukraine</a></h3>
+  <p class="subtext"><span class="pos">Physics Researcher</span> | Part-time | Kyiv, Ukraine | July 2021 – June 2022</p>
   <ul>
     <li>Simulated properties and structure of haemoglobin with the process of oxygen transport.</li>
     <li>Contributed to a peer-reviewed publication and presented findings at two conferences.</li>

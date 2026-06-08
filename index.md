@@ -72,18 +72,9 @@ Currently, I work as CV Engineer @ [DeepScenario](https://www.deepscenario.com/)
   <div class="teaser-card">
     <div>
       <h3>🔬 Research</h3>
-      <p>Focused on <strong>Vision Foundation Models</strong> and 3D Perception. Co-authored <strong>LoftUp</strong> (ICCV 2025 Oral) and benchmarking studies.</p>
+      <p>Focused on <strong>Vision Foundation Models</strong> and 3D Perception. Co-authored <strong>LoftUp</strong> (ICCV 2025 Oral) and benchmarking studies. Before that, I conducted research in computational physics at the National Academy of Sciences of Ukraine.</p>
     </div>
     <a href="/papers/" class="teaser-link">~/view_publications <span class="mono">→</span></a>
-  </div>
-
-  <!-- Skills Teaser -->
-  <div class="teaser-card">
-    <div>
-      <h3>🛠️ Tech Stack</h3>
-      <p>Proficient in <strong>PyTorch</strong>, <strong>C++</strong>, and <strong>ROS</strong>. Expertise in multi-modal sensor fusion (LiDAR + Camera) and generative models.</p>
-    </div>
-    <a href="/experience/#skills" class="teaser-link">~/view_skills <span class="mono">→</span></a>
   </div>
 </div>
 
@@ -92,7 +83,7 @@ Currently, I work as CV Engineer @ [DeepScenario](https://www.deepscenario.com/)
 ### Latest News
 <div class="card">
   <ul class="narrow">
-    <li><strong>Sept 2025</strong>: Two papers accepted at <strong>ICCV 2025</strong> (both as <strong>Orals</strong>)! Check out LoftUp and our feature upsampling benchmark.</li>
     <li><strong>Nov 2025</strong>: Joined <strong>DeepScenario</strong> as a Computer Vision Engineer in Stuttgart.</li>
+    <li><strong>Sept 2025</strong>: Two papers accepted at <strong>ICCV 2025</strong> (both as <strong>Orals</strong>)! Check out <strong><a href="https://arxiv.org/abs/2504.14032">LoftUp</a></strong> (Main Track) and our <strong><a href="https://arxiv.org/abs/2505.02075">feature upsampling benchmark</a></strong> (ILR+G Workshop).</li>
   </ul>
 </div>
