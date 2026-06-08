@@ -28,17 +28,32 @@ a {color: #f2a365; }
 .noline { text-decoration: none;}
 .line { text-decoration: underline; }
 
-.subtle-link {
-    color: inherit !important;
-    text-decoration: none;
-}
-
-.subtle-link:hover {
-    color: #f2a365 !important;
-    text-decoration: underline;
-}
-
 .yellow {color: #f2a365; }
+
+/* Subtle link overrides */
+a.subtle-link {
+    color: #ececec !important;
+    text-decoration: none !important;
+}
+
+a.subtle-link:hover {
+    color: #f2a365 !important;
+    text-decoration: underline !important;
+}
+
+.subtext {
+	text-transform: uppercase;
+	font-weight: 500;
+	font-size: 12px !important;
+	letter-spacing: .8px;
+	color: #888 !important;
+	margin-bottom: 2rem;
+}
+
+.subtext .pos {
+    color: #ffffff !important; /* Pure white highlight */
+    font-weight: 800 !important;
+}
 
 a:hover {color: lightblue; }
 
@@ -254,20 +269,6 @@ p{
 	font-size: 17px;
 	line-height: 1.6;
 	color: rgb(184, 184, 184);
-}
-
-.subtext{
-	text-transform: uppercase;
-	font-weight: 500;
-	font-size: 12px !important;
-	letter-spacing: .8px;
-	color: #888;
-	margin-bottom: 2rem;
-}
-
-.subtext .pos {
-    color: #ececec;
-    font-weight: 800;
 }
 
 .kinda-red{

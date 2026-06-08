@@ -72,7 +72,7 @@ Currently, I work as CV Engineer @ [DeepScenario](https://www.deepscenario.com/)
   <div class="teaser-card">
     <div>
       <h3>🔬 Research</h3>
-      <p>Focused on <strong>Vision Foundation Models</strong> and 3D Perception. Co-authored <strong>LoftUp</strong> (ICCV 2025 Oral) and benchmarking studies. Before that, I conducted research in computational physics at the National Academy of Sciences of Ukraine.</p>
+      <p>Focused on <strong>Vision Foundation Models</strong> and 3D Perception. Co-authored <strong>LoftUp</strong> (ICCV 2025 Oral) and benchmarking studies. Before that, I conducted research in computational physics.</p>
     </div>
     <a href="/papers/" class="teaser-link">~/view_publications <span class="mono">→</span></a>
   </div>
